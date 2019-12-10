@@ -1,2 +1,0 @@
-# sec
-Notes on security
