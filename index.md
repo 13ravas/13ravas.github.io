@@ -2,7 +2,13 @@
 
 This is my website
 
-```Something here
+```javascript
+
+function(void){
+  test;
+}
+
+```
 
 #H1
 ##H2
@@ -11,4 +17,3 @@ This is my website
 - something
 - here
 - and here
-```
